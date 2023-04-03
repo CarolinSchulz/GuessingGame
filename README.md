@@ -15,7 +15,7 @@ A number guessing game using Java Swing.
 2. Imported it into VS Code or another Java IDE.
 3. Run the application :)
 
-## Docker
+## Docker :whale:
 
 1. As above, clone the project.
 2. Build the Docker image:
