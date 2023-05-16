@@ -12,7 +12,7 @@ A number guessing game using Java Swing.
    ```
    git clone https://github.com/CarolinSchulz/GuessingGame.git
    ```
-2. Imported it into VS Code or another Java IDE.
+2. Import it into VS Code or another Java IDE.
 3. Run the application :)
 
 ## Docker :whale:
